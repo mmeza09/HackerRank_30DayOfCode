@@ -1,0 +1,13 @@
+D:\HACKERRANK\ThirtyDaysOfCode\bin\Debug\netcoreapp3.1\ThirtyDaysOfCode.exe
+D:\HACKERRANK\ThirtyDaysOfCode\bin\Debug\netcoreapp3.1\ThirtyDaysOfCode.deps.json
+D:\HACKERRANK\ThirtyDaysOfCode\bin\Debug\netcoreapp3.1\ThirtyDaysOfCode.runtimeconfig.json
+D:\HACKERRANK\ThirtyDaysOfCode\bin\Debug\netcoreapp3.1\ThirtyDaysOfCode.runtimeconfig.dev.json
+D:\HACKERRANK\ThirtyDaysOfCode\bin\Debug\netcoreapp3.1\ThirtyDaysOfCode.dll
+D:\HACKERRANK\ThirtyDaysOfCode\bin\Debug\netcoreapp3.1\ThirtyDaysOfCode.pdb
+D:\HACKERRANK\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.csprojAssemblyReference.cache
+D:\HACKERRANK\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.csproj.CoreCompileInputs.cache
+D:\HACKERRANK\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.AssemblyInfoInputs.cache
+D:\HACKERRANK\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.AssemblyInfo.cs
+D:\HACKERRANK\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.dll
+D:\HACKERRANK\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.pdb
+D:\HACKERRANK\ThirtyDaysOfCode\obj\Debug\netcoreapp3.1\ThirtyDaysOfCode.genruntimeconfig.cache
