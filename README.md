@@ -5,7 +5,7 @@ Download the project and execute `dotnet run` in project root folder in the comm
 
 When you run the project, you can see the options list:
 
-![options List](./src/img/Days.PNG)
+![options List](./src/img/Days.PNG)  
 Enter the option number.
 
 ## .Net Core Version
