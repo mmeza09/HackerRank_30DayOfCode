@@ -1,7 +1,7 @@
 # HackerRank 30 Days Of Code
 This is a C# dotnet core console project with all problems resolved from **HackerRank** - **30 days of code**  
 
-Download the project and execute dotnet run in the root project folder in the command line.
+Download the project and execute `dotnet run` in project root folder in the command line.
 
 When you run the project, you can see the options list:
 
